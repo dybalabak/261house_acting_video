@@ -1,0 +1,13 @@
+# shared packages. do not edit this section.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic==2.10.4
+langgraph==0.2.60
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-openai==0.2.14
+httpx==0.28.1
+
+# team packages. add yours below, one per line
+# (3조) 추가 패키지 없음 - 화면 검색은 표준 라이브러리(re, difflib)만 사용합니다.
